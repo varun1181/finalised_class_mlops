@@ -1,0 +1,14 @@
+{
+    "accuracy": 1.0,
+    "precision_macro": 1.0,
+    "recall_macro": 1.0,
+    "f1_macro": 1.0,
+    "champion_cv_accuracy": 0.9746376811594203,
+    "champion_training_accuracy_pct": 97.43589743589743,
+    "champion_validation_accuracy_pct": 97.46376811594203,
+    "champion_accuracy_gap_pct": -0.02787068004460025,
+    "champion_model_size_mb": 0.004246711730957031,
+    "champion_training_time_seconds": 0.003743699984624982,
+    "champion_prediction_time_ms": 1.2807139998767525,
+    "test_vs_validation_gap_pct": -2.536231884057969
+}
